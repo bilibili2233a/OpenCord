@@ -28,25 +28,17 @@
 
 ## FAQ
 
-### Will this client support "plugins" or custom features/themes?
+### 此客户端是否支持“插件”或自定义功能/主题？
 
-Most likely in the future, however our first priority is to implement most of the stock client's
-features. To check our current progress, see [STATUS.md](/STATUS.md). You are always welcome to fork
-and add features or do it just privately!
+在未来很有可能实现，但我们的首要任务是实现Stock客户端的大部分功能。要查看我们当前的进度，请参阅STATUS.md。随时欢迎您创建和添加功能，或私下进行！
 
-### Is this against Discord TOS?
+### Discord TOS反对吗？
 
-Yes, it is. However, there has been no instances of Discord banning people for just using modified
-clients. What they do automatically ban for, is API abuse or strange requests. Therefore, OpenCord
-takes great caution in emulating official clients exactly, but as it is still in development, please
-***use an alt account for your safety.***
+是的，是的。然而，从没有过因为使用修改过的客户端而禁止用户使用“Discord”的案例。它们会自动禁止API滥用或奇怪的请求。因此，OpenCord在模拟官方客户端时非常谨慎，但由于它仍在开发中，为了您的安全，请使用alt帐户。***
 
-### Where download???!?!?!?!?
+### 在哪里下载????!
 
-Since there is no release version yet, use
-this [nightly link](https://nightly.link/materiiapps/opencord/workflows/android/master/opencord.zip)
-to download OpenCord. Download, extract and install the APK contained within. If you are
-reinstalling or updating, you have to uninstall the old version first!
+由于OpenCord还没有发布版本，请在GitHub Actions下载OpenCord。下载、解压缩并安装中包含的APK。如果要重新安装或更新，必须先卸载旧版本！
 
 ## Building locally
 
