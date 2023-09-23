@@ -54,4 +54,4 @@ Linux/macOS系统:
 ./gradlew app:assembleDebug
 ```
 
-Built APK will be at `app/build/outputs/apk/debug/app-debug.apk`
+生成的 APK 将在此处： `app/build/outputs/apk/debug/app-debug.apk`
