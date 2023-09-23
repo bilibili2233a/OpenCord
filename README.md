@@ -15,7 +15,7 @@
   </a>
   <br/>
   <p align="center">
-    An open-source Material You implementation of the Discord Android app. (WIP)
+    一款 Material You 实现的 Discord Android 开源应用。（正在进行中）
   </p>
 </p>
 
@@ -38,17 +38,17 @@
 
 ### 在哪里下载????!
 
-由于OpenCord还没有发布版本，请在GitHub Actions下载OpenCord。下载、解压缩并安装中包含的APK。如果要重新安装或更新，必须先卸载旧版本！
+由于OpenCord还没有发布版本，请在GitHub Actions下载OpenCord。下载后解压并安装中包含的APK。如果要重新安装或更新，必须先卸载旧版本！“签名不一致”
 
-## Building locally
+## 本地构建
 
-Windows:
+Windows系统:
 
 ```batch
 .\gradlew.bat app:assembleDebug
 ```
 
-Linux/macOS:
+Linux/macOS系统:
 
 ```shell
 ./gradlew app:assembleDebug
